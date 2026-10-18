@@ -1,14 +1,9 @@
-15:48:50.627 -> --- I2C scan ---
-15:48:50.675 -> Najdene zariadenie na 0x23
-15:48:50.675 -> Najdene zariadenie na 0x38
-15:48:50.675 -> Najdene zariadenie na 0x5A
-15:48:50.717 -> Najdene zariadenie na 0x77
-15:48:50.717 -> Spolu: 4
-15:48:50.717 -> 
-15:48:55.691 -> --- I2C scan ---
-15:48:55.691 -> Najdene zariadenie na 0x23
-15:48:55.691 -> Najdene zariadenie na 0x38
-15:48:55.691 -> Najdene zariadenie na 0x5A
-15:48:55.735 -> Najdene zariadenie na 0x77
-15:48:55.735 -> Spolu: 4
-15:48:55.735 -> 
+16:29:12.808 -> --- Zbernica 1 (SDA 21, SCL 22) ---
+16:29:12.841 -> Najdene zariadenie na 0x23
+16:29:12.841 -> Najdene zariadenie na 0x38
+16:29:12.841 -> Najdene zariadenie na 0x77
+16:29:12.841 -> Spolu: 3
+16:29:12.841 -> --- Zbernica 2 (SDA 25, SCL 26) ---
+16:29:12.841 -> Najdene zariadenie na 0x38
+16:29:12.841 -> Najdene zariadenie na 0x53
+16:29:12.841 -> Spolu: 2
