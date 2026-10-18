@@ -1,0 +1,13 @@
+:16:41.616 -> eCO2:  416 ppm   TVOC:    2 ppb
+15:16:42.578 -> eCO2:  434 ppm   TVOC:    5 ppb
+15:16:43.598 -> eCO2:  400 ppm   TVOC:    0 ppb
+15:16:44.612 -> eCO2: 1113 ppm   TVOC:  108 ppb
+15:16:45.593 -> eCO2: 1029 ppm   TVOC:   95 ppb
+15:16:46.607 -> eCO2:  714 ppm   TVOC:   47 ppb
+15:16:47.604 -> eCO2:  459 ppm   TVOC:    8 ppb
+15:16:48.606 -> eCO2:  459 ppm   TVOC:    8 ppb
+15:16:49.592 -> eCO2:  400 ppm   TVOC:    0 ppb
+15:16:50.601 -> eCO2:  400 ppm   TVOC:    0 ppb
+15:16:51.620 -> eCO2:  400 ppm   TVOC:    0 ppb
+15:16:52.636 -> eCO2:  400 ppm   TVOC:    0 ppb
+15:16:53.630 -> eCO2:  400 ppm   TVOC:    0 ppb
