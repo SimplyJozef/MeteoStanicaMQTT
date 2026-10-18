@@ -1,0 +1,23 @@
+
+15:43:41.375 -> Dazd raw: 4095   Stav: sucho
+15:43:41.842 -> Dazd raw: 4095   Stav: sucho
+15:43:42.373 -> Dazd raw: 4095   Stav: sucho
+15:43:42.856 -> Dazd raw: 4095   Stav: sucho
+15:43:43.342 -> Dazd raw: 2661   Stav: sucho
+15:43:43.888 -> Dazd raw: 2473   Stav: sucho
+15:43:44.372 -> Dazd raw: 2192   Stav: sucho
+15:43:44.842 -> Dazd raw: 2111   Stav: sucho
+15:43:45.344 -> Dazd raw: 2032   Stav: sucho
+15:43:45.868 -> Dazd raw: 1957   Stav: MOKRO
+15:43:46.351 -> Dazd raw: 1937   Stav: MOKRO
+15:43:46.842 -> Dazd raw: 1939   Stav: MOKRO
+15:43:47.342 -> Dazd raw: 1935   Stav: MOKRO
+15:43:47.876 -> Dazd raw: 1920   Stav: MOKRO
+15:43:48.372 -> Dazd raw: 1914   Stav: MOKRO
+15:43:48.869 -> Dazd raw: 4095   Stav: sucho
+15:43:49.366 -> Dazd raw: 4095   Stav: sucho
+15:43:49.862 -> Dazd raw: 4095   Stav: sucho
+15:43:50.364 -> Dazd raw: 4095   Stav: sucho
+15:43:50.877 -> Dazd raw: 4095   Stav: sucho
+15:43:51.374 -> Dazd raw: 4095   Stav: sucho
+15:43:51.873 -> Dazd raw: 4095   Stav: sucho
